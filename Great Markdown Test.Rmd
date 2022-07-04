@@ -2,7 +2,7 @@
 title: "The Great Markdown Test"
 author: "Peter W Flint"
 date: "7/4/2022"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
